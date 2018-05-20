@@ -1,0 +1,13 @@
+c:\users\hp\Desktop\visuol stdio\Proje2\Proje2\bin\Debug\Proje2.exe.config
+c:\users\hp\Desktop\visuol stdio\Proje2\Proje2\bin\Debug\Proje2.exe
+c:\users\hp\Desktop\visuol stdio\Proje2\Proje2\bin\Debug\Proje2.pdb
+c:\users\hp\Desktop\visuol stdio\Proje2\Proje2\obj\Debug\Proje2.csprojResolveAssemblyReference.cache
+c:\users\hp\Desktop\visuol stdio\Proje2\Proje2\obj\Debug\Proje2.exe
+c:\users\hp\Desktop\visuol stdio\Proje2\Proje2\obj\Debug\Proje2.pdb
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\Proje2z\Proje2\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\Proje2z\Proje2\Proje2\bin\Debug\Proje2.exe
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\Proje2z\Proje2\Proje2\bin\Debug\Proje2.pdb
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\Proje2z\Proje2\Proje2\obj\Debug\Proje2.csprojResolveAssemblyReference.cache
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\Proje2z\Proje2\Proje2\obj\Debug\Proje2.csproj.CoreCompileInputs.cache
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\Proje2z\Proje2\Proje2\obj\Debug\Proje2.exe
+C:\Users\HASAN\OneDrive\Masaüstü\C# Çalışmaları\C#\Proje2z\Proje2\Proje2\obj\Debug\Proje2.pdb
